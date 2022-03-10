@@ -1,0 +1,3 @@
+[submodule "DLFAV-2022"]
+	path = DLFAV-2022
+	url = https://github.com/vita-epfl/DLAV-2022.git
